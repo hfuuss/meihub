@@ -1,0 +1,30 @@
+{
+  "name": "meihub",
+  "version": "1.0.0",
+  "description": "meizi girls",
+  "main": "index.js",
+  "bin": {
+    "meihub": "./bin/meihub"
+  },
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hfuuss/meihub.git"
+  },
+  "keywords": [
+    "meizi",
+    "girls",
+    "hub"
+  ],
+  "author": "hfuuss <ss@hfuusec.cn> (http://i.getshell.cn)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hfuuss/meihub/issues"
+  },
+  "homepage": "https://github.com/hfuuss/meihub#readme"
+}
